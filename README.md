@@ -111,9 +111,9 @@ If you'd like to improve explanations, add problems, or fix bugs, feel free to o
 ## 📬 Contact
 
 Feel free to reach out via:
-- 📧 Email: abhishek@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-tiwari)
-- 🌐 [GitHub](https://github.com/AbhishekKumarTiwari)
+- 📧 Email: abhishekmimic@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-tiwari-2a569330b/
+- 🌐 GitHub: https://github.com/Mimic003
 
 ---
 
