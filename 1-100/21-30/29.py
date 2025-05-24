@@ -20,4 +20,3 @@ class Solution:
             ans += k
 
         return sign * ans
-    
